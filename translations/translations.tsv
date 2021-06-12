@@ -1,0 +1,470 @@
+key	nonce	en
+gov		Government
+econ		Economy
+soct		Society
+rel		Religion
+for		Foreign Policy
+legal		Security
+o		I completely disagree with every part of all of these philosophies
+a		I do not care about this issue
+prev		Previous
+praysch		Prayer in School
+nota		Other
+idc		Apathy
+cent		Radical Centrism
+com		Communism
+soc		Socialism
+socdem		Social Democracy
+clas		Classical Liberalism
+ordo		Ordoliberalism
+cap		Laissez-Faire
+opt		Mixed Markets
+marksoc		Market Socialism
+trad		Traditionalism
+free		Freedom
+prog		Progressivism
+just		Societal Justice
+perf		Perfectionism
+sec		Secular
+athe		Atheist
+athe*		Anti-Theist
+theo		Theocratic
+hybr		Hybrid
+dir		Direct Democracy
+dir*		E-Democracy
+rep		Unitary Democracy
+repub		Federal Republic
+repub*		Confederationism
+auth		Authoritarianism
+auth*		Monarchism
+techno		Technocracy
+anar		Anarchism
+plut		Plutarchy
+strato		Stratocracy
+rep*		Federal Democracy
+asim		Assimilationist
+glob		Internationalist
+glob*		Globalist
+pop		National Populist
+sov		Sovereigntist
+iso		Isolationist
+nat		Nationalist
+nat*		Imperialist
+open		Open Borders
+open*		Minimalist
+proced		Procedural
+decn		Decentralized
+lao		Law and Order
+hum		Humanist
+hum*		Reformist
+prot		State Security
+prot*		Total Security
+quizname		Prism Political Quiz
+nota	desc	If you're getting other, you believe in something that disagrees with basic assumptions that this quiz makes to simplify questions for the vast majority of people. You may need more specialized tests to capture your beliefs, though you likely already have a specific label for yourself.
+idc	desc	Apathy refers to the lack of interest in a particular issue. It might not affect you, or you might just not believe any option is better than the others or that there isn't any realistic hope of achieving change in an issue. Some apathetic people just might care about a handful of other issues more and be apathetic about other issues
+soc	desc	This quiz uses Socialism to refer to the belief that the state should control the economy in many industries. They believe private industry should be banned or limited to industries that are harder to put a direct value on. They believe that workers should receive the value of their labor with minimal amounts given to management.
+socdem	desc	Those who believe in Social Democracy according to this test believe that the government should take a heavy hand in the market. While they believe in Capitalism, they also believe it is the duty of the government to ensure that the results of capitalism are fair and do not hurt the poor.
+cent	desc	This quiz uses radical centrism to indicate that there was no strong preference between ideologies. It is radical centrism rather than centrism because it combines elements of multiple extremely different  ideologies. This may mean you have an ideology that is not captured by this quiz or that you are just picking random answers
+clas	desc	Those who according to this quiz believe in Classical Liberalism tend to believe that the government should largely stay out of the economy except in extreme cases of exploitation and when companies fail to deliver what they advertised to the consumer.
+ordo	desc	This quiz refers to Ordoliberalism as the belief that the government must regulate companies to ensure capitalism works as best as it possibly can, by ensuring small businesses can compete with big businesses. They believe firmly in capitalism, but that government must ensure competition in most cases.
+com	desc	This quiz uses Communism to refer to the nation providing for its citizens in accordance to their needs based on what others can produce without any sort of currency system or payment. They usually do not believe in a national government managing the economy, but local communes that ensure needs are met
+cap	desc	This quiz uses Laissez-Faire to refer to the complete lack of interference by the state (if one even exists) in the markets, relying soley on market principles to regulate markets through consumer choices rather than mandates. They believe that without regulation, the markets will be open to everyone and thus find fair prices.
+opt	desc	People who believe in Mixed Markets according to this test, believe that the government should compete with markets. They believe that the government should provide a baseline for services at an affordable price but allow the private market to compete on prices or quality to give citizens the best of both.
+marksoc	desc	This quiz uses the term Market Socialism to refer to using markets in government-owned businesses. Specifically, they usually believe anyone should be able to start a government-owned businesses to allow choices for consumers while still guaranteeing workers the value of their labor
+trad	desc	Traditionalism is used by this quiz to refer to following morals that are proud of traditional values such as religion, patriotism, and humanity. Traditionalists also tend to believe in placing limits on technology which could violate their beliefs and values
+free	desc	This quiz uses Freedom to mean the belief in the right of the individual to do what they want without regulation or censorship by the state. This especially refers to the ability to have control of the individual's body and mind, as well as the freedom to use advances in technology to their full extent on an individual level.
+prog	desc	For the purposes of this quiz, Progressivism means the acceptance of the progression of technology and society and the belief that we as a society are able to decide what is right and wrong on a case-by-case basis, rather than dealing with absolute terms, as technological issues are inherently complex.
+just	desc	According to this quiz, those who believe in Societal Justice believe that policies and technological advances must be  carefully designed to apply evenly and not have an unfair effect on vulnerable communities such as the poor or minorities.
+perf	desc	Perfectionism refers to the willingness to use any technology available to further the interests of the state. The needs of the state overrules the the desires of the people, and with enough mental manipulation, the people desire to do what the state needs. Technology can be used to eliminate waste and perfect humanity.
+sec	desc	This uses secularism to refer to the complete separation of church and state but a complete lack of interference with private religion. This includes allowing private religious schools to teach religious beliefs but keeping religion out of public schools. Additionally, they believe the state should not favor any one religion
+athe	desc	This quiz defines state atheists to believe that the government should be areligious. They may believe that members of government and the general population can be religious, but they should not influence policy based on their religion. They believe students should only be taught science as facts, not religion.
+theo	desc	A Theocrat, according to this quiz, believes that the government should promote religion in the nation. They believe religion is important to the people and that the government should not hold back from teaching it and including it on national property
+hybr	desc	This quiz calls a Hybridist someone who believes that the state and church can coexist, and that while the state should not favor a religion, it should also not favor atheism. Hybridists advocate for a balance of religion in schools and government as long as it does not favor one in particular or force a religion upon anyone.
+dir	desc	This quiz uses Direct Democracy to refer to the belief that people should regularly vote on issues through national referendums. They believe that the people should have a right to govern themselves and have a direct say on the policies that govern them. They are likely to support citizen-initiated ballot measures to propose policy.
+dir*	desc	This quiz uses E-Democracy to represent the belief in using technology to allow democracy over the internet. This can include having frequent Electronic Direct Democracy referendums, as well as options where a person can delegate their direct vote to another to create a more representative form of E-Democracy.
+rep	desc	This quiz uses a unitary democracy to refer to people who believe that power should be left to the national government with little to no power given to the provinces on most issues. They usually believe in using party lists with proportional representation on a national level. They believe every vote should count an equal amount for seats.
+repub	desc	This quiz uses a Federal Republic to refer to the belief that power should tend to be left to the provinces on most issues. Supporters believe representatives should represent a specific district rather than the nation as a whole. They want legislative seat distribution that ensures less populous provinces still have an impact.
+repub*	desc	People who believe in Confederationism according to this quiz believe that the local government should be the primary unit of government, with a weak national government with very limited powers. They believe in the right for a province to secede and in many ways support the nation as an alliance of smaller local provinces.
+auth	desc	This quiz uses Authoritarianism to refer to the belief that the government should be ruled by a single dictator or similarly other similar ruler, passed through appointment. They usually believe that having a single leader serve for life will be able to use his experience to serve the nation’s interests.
+auth*	desc	This quiz uses Monarchism to refer to a system with a single hereditary ruler who ultimately holds the decision-making power for the nation. They usually believe that a single individual who can decide everything can serve the interests of the nation better than the conflicting voices of the masses would
+techno	desc	This quiz uses Technocracy to refer to a system where the government is run by experts. They believe power should be given through merit rather than popularity, and tend to support giving educated people more power in government, either through appointments of them, or giving them more weight in votes.
+anar	desc	This test uses Anarchists to refer to the belief that we would be better out without a government. Anarchists believe we should look after our own interests without government interference, and potentially disbanding the government. They believe that nobody should have power over another and emphasize individual liberty.
+plut	desc	This test uses Plutarchy to include a number of different government forms that are rule by the wealthy. This may include running the nation like a corporation or granting votes by wealth. They believe that the wealthy have the highest stake in the government and thus should have the biggest say in it.
+strato	desc	This quiz uses a Stratocracy to represent a number of government forms that involve rule by military. This could include a military dictatorship, or a democracy with limiting suffrage so only the military may vote, or that the military votes count more. They may also believe in mandatory national service.
+rep*	desc	Those who believe in Federal Democracy believe that power should be shared between both the national and local governments, with a balance of power. They usually believe that the national government should be proportional on a national scale rather than representatives chosen by districts.
+asim	desc	This quiz uses an Assimilationist to believe in someone who believes in immigration when the immigrants adapt to the nation's culture. They tend to support international deals that do not disrupt the nation's traditions, but will not support deals that could risk giving up the parts that traditionally make the nation what it is
+glob	desc	This quiz uses Internationalism to believe in the duty of a nation to serve the interests of all people in the world, not just the nation's own. They believe that the nation should take measures to improve global life through humanitarian actions abroad and that the nation should be welcoming of foreigners and assist them when needed
+glob*	desc	Globalism according to this quiz refers to the belief that we are one world, and that we should all care for each other. The ideal for a globalist is for all nations to unite diplomatically into a single world government that is able to take care of all people. Until that happens, they believe in welcoming immigrants and refugees.
+pop	desc	This quiz uses National Populism to refer to a person who believes in doing anything for the good of the nation's people. They will generally support international treaties when they can offer benefits to the nation's population and oppose treaties that can put them at risk or take their rights away.
+sov	desc	This quiz calls someone who believes that a nation must have the absolute right to control their own laws a Sovereigntist. These people believe that the nation must have a right to control its borders and laws, and will oppose deals and organizations that threaten to take some of that power away from the nation.
+iso	desc	This quiz uses isolationism to refer to the belief that the nation should remain focused internally and ignore the outside world. They usually believe in a complete ban on individuals entering the nation and will oppose any agreements with other nations
+nat	desc	a Nationalist in this quiz believes in putting the interests of the state first in foreign policy. They may support deals with other nations that can give the nation more power, and they usually only support immigration when the immigrants are filling a shortage or otherwise adding something to the nation.
+nat*	desc	An Imperialist, according to this quiz, believes that a nation must do everything in its power to improve itself. This includes militarily taking lands that it claims, and if it serves the interests of the nation, claiming more land that should belong to the nation.
+open	desc	People who believe in Open Borders according to this quiz usually believe that people should be able to enter and leave a nation freely. Those with high values may also believe in not having a military or any espionage services. They usually won't do much abroad and are hesitant to negotiate deals that can risk infringing on freedom.
+open*	desc	A Minimalist, according to this quiz, believes in not having a sufficiently central government to be able to truly conduct foreign policy. They usually believe strongly in open borders and allowing people to come and go freely through the nation, and generally oppose a national language or culture
+athe*	desc	An Anti-theist, according to this quiz believes that religion in the nation should be completely banned. They believe that religion should not have a place in the nation, and will enforce state atheism on all citizens of the nation through bans on all religious activities.
+praysch	0	Most schools should have daily prayer
+praysch	1	I support having a minute of silence in public schools, in which students may pray if they choose, but will not enforce it upon anyone
+praysch	2	Prayer does not need a dedicated time slot in schools. Students may pray on their own time if they wish
+praysch	3	Private religious schools may have prayers if they want, but any public schools that exist should not
+creationism		Creationism in School
+creationism	0	The universe was created by a higher power. We must teach this in our schools, and evolution should only be mentioned when demonstrating how it is wrong.
+creationism	1	The church does not belong in our public schools. Private schools may teach creationism if they wish, but public schools should only teach scientific theories such as evolution.
+creationism	2	Schools should be required to teach the evolution and evolution alone. That is science and facts, and pretending it is not does a disservice to our children
+creationism	3	The state must not take sides. Public schools should be required to teach both creationism and evolution, and students can decide for themselves what to believe.
+churchtax		Taxation of Religious Buildings
+churchtax	0	Religious buildings should receive state funding to ensure they are able to stay open.
+churchtax	1	Religious buildings should be taxed, as the state should not be giving religion special privileges over other businesses.
+churchtax	2	The state should exempt all religious buildings from taxation, as long as it is exempting those of all religions.
+churchtax	3	Religious buildings should be banned
+memorial		Religious Statements on National Memorials
+memorial	0	Religion is an important part of our nation, and most of our soldiers would want religious messages on their memorials
+memorial	1	I'm opposed to mentioning a deity that probably doesn't exist on our memorials to the real people who died for our nation.
+memorial	2	Our national memorials should not mention God or religion, only to serve to honor the fallen.
+memorial	3	There is nothing wrong with mentioning God on our memorials as long as it isn't actively promoting any particular religion.
+holidays		Religious Holidays
+holidays	0	Religious holidays of the most popular religion in the nation should also be national holidays that everyone can have off around them
+holidays	1	The state should not make religious holidays national holidays and instead have more holidays around dates significant to our nation, like an election day, or to emphasize relaxation rather than religious observation.
+holidays	2	The government should guarantee the most holy holidays of all major religions in the nation off so those of all religions can perform their religious duties
+elections		Elections
+elections	0	The vote of an educated person should be worth more than that of a fool.
+elections	1	Every person must have a vote, but it should be weighted geographically for at least one chamber of the legislature to ensure one region cannot dominate the legislature
+elections	2	A vote is a vote, and all votes should count exactly the same
+elections	3	There shouldn't be a government to even vote to put people in
+elections	4	Voting is really an unnecessary process, the whims of the masses are irrelevant
+elections	5	Those who put more money into the government deserve to get more out of their vote
+elections	6	Those who serve the country through the military should have more of a say in the government than those who do not
+representation		Representatives
+representation	0	I do not want representation, I want the government to be abolished
+representation	1	I want a representative who I can bribe to get my legislative agenda prioritized
+representation	2	I want a leader who will represent the popular opinion of the area they serve even when they personally disagree
+representation	3	I want a representative who will bring stability and strength through a lifelong rule
+representation	4	I want leaders who are experts in various fields and can use that knowledge to create well-informed policies
+representation	5	I do not want representation, I want to be able to directly vote on most issues as referenda
+representation	6	I want a leader who has served in the military and worked their way up the ranks
+concentration		Concentration of Power
+concentration	0	Power must be decentralized to everyone with important decisions ultimately decided through frequent national referenda. People generally know what they want and are able to understand issues with a little explanation.
+concentration	1	Policy should not be set by politicians, but by experts in each field, who are able to actually understand the issues, something that politicians will never truly be able to do.
+concentration	2	We should distribute power by region in the nation, with representatives from each region deciding national policy, but also leaving many issues to the regions themselves to decide locally
+concentration	3	Power should be concentrated according to wealth. Citizens who are wealthier have a bigger stake in the nation and in most cases understand both a specialization, how people think, and what they want, which allowed them to become wealthy
+concentration	4	Nobody should have the power to make laws, people should have the freedom to decide for themselves what is wrong and what is justified
+concentration	5	Only those who have served in the military and potentially risked their life for the nation can be fully trusted with the nation's interests, and only those who served it should thus be given a voice in power
+concentration	6	We need a single leader above all who can serve for life. With that rule, fully understand the big picture. Without public pressure, the leader can make the best decisions for the nation as a whole
+concentration	7	Power should be distributed to everyone through a large legislative body with enough people to represent the views of each person. Politicians are important to be able to spend their full time understanding issues, listening to experts and evaluating the big picture
+districts		Districts
+districts	0	We should have people represented in our legislature proportionally with their vote on a nationwide level. If 10% of the population nationally supports a party, 10% of the legislature should be that party
+districts	1	The government should represent the people who represented it through the military and other national service
+districts	2	We should have districts nationally with representatives that represent roughly the same number of people, but a guaranteed minimum representation for geographic areas
+districts	3	Representatives are interfering with democracy. Rather than representation, we should directly vote on all important issues nationally
+districts	4	There should be a single non-elected ruler who represents everyone by considering the interests of the entire nation when making decisions
+districts	5	Each person should look out for their own interests, not through government or voting, but through their own means
+districts	6	The population does not need to be represented so much as all parties who the policy will effect need a specialized representative to analyze the issue from that perspective
+districts	7	Representatives should represent an equal amount of land. If you've invested enough in the country to own an entire district worth of land, you probably have an interest in the nation's success and should be given a district worth of representation
+trait		Most Important Trait in a Political Leader
+trait	0	We should make our own decisions, we don't need a leader above us
+trait	1	The most important quality in a leader is political courage. We need someone who will make the decisions that need to be made, even if they are unpopular
+trait	2	The most important quality in a leader is power. We need someone who can influence policy through connections beyond the office they hold
+trait	3	The most important quality in a leader is intelligence. We need someone who can understand problems and find solutions to them
+trait	4	The most important quality in a leader is experience. We need someone who knows how to make decisions and understands our government functions
+trait	5	The most important quality in a leader is empathy. We need someone who is capable of understanding our issues and addressing them as we want
+electionreform		Election Reform
+electionreform	0	We should reform elections by making it legal to sell your vote
+electionreform	1	We should be making elections secure and open using internet technologies such as blockchain or allowing electronic vote delegation
+electionreform	2	We should improve our election security through being more strict in ID laws and searching for cases of double voting.
+electionreform	3	We must reform our elections by expanding ballot access. Citizens should be automatically registered and sent a ballot
+electionreform	4	Elections should be cancelled, as the law should not be decided by popular opinion
+secession		Right to Secession
+secession	0	We should not have provinces and be a unitary state, so there should not be anywhere clearly defined to be able to secede
+secession	1	Provinces should not be allowed to secede, however, we should give states more flexibility in setting their own laws such that they can pass the laws that they want except in extreme cases such as violating human rights
+secession	2	Those who want independence should not be forced to remain a part of our nation, any individual should have the right to take their own land and property and declare themselves independent without a vote
+secession	3	Provinces should have the right to secede. It should be possible for one to organize a referendum and secede if it passes with overwhelming support
+secession	4	Provinces should exist but in most cases should not be given independence referendums, and certainly not as a right
+leaderselect		Leader Selection
+leaderselect	0	Leaders should be appointed by the previous leader based on merit to ensure we always have competent leadership
+leaderselect	1	Leaders should be chosen, but not directly through popular vote. It should be weighted to ensure that the votes of all provinces count rather than just the biggest ones.
+leaderselect	2	Leaders should mostly be hereditary, passed down through blood
+leaderselect	3	Leaders should be chosen through military experience. Those who have proved their ability to lead by working their way up the ranks deserve to lead the nation
+leaderselect	4	Leaders should be chosen democratically by the nation that they will lead
+leaderselect	5	Leaders should be chosen by the individuals with the largest stake in the nation, similar to how a corporation might choose its CEO
+leaderselect	6	We should not have a single designated leader, to be chosen through any method
+policysetting		Power for Policy-Setting
+policysetting	0	Power to set policy should largely lie at the provincial or local level, with limited national power
+policysetting	1	The executive of the nation should hold the majority of decision-making power and generally be the one to create policy
+policysetting	2	An elected national legislative branch should primarily be the one to set policy for the entire nation and overrule any laws at the provincial level
+policysetting	3	Policy-setting power should lie within the executive branch, but through the appointed cabinet and bureaucracy who can better specialize their knowledge more than the executive
+policysetting	4	Power should lie with the people directly, who should initiate legislation through citizen-initiated ballot measures
+policysetting	5	The wealthiest individuals should hold power, as they are generally the most capable and contribute the most to the nation
+policysetting	6	The military should ultimately hold power and the ability to set policy
+policysetting	7	No person or body should hold power over an individual, we should be free to live our lives
+policysetting	8	Power should be shared between the national and local governments roughly equally
+peoplepolicy		The Role of People in Policy
+peoplepolicy	0	The population, as a collective, generally can understand and make good decisions in terms of policy with a little bit of explanation, to be able to decide what they want directly
+peoplepolicy	1	The wealthy tend to know what they want and have good opinions, but the poor rarely know what is good for them
+peoplepolicy	2	The general population has bad opinions and the government would be better off without their opinions
+peoplepolicy	3	People must be given a say, but government must try to avoid the tyranny of the majority by having more local representation rather than enforcing the nationwide popular opinion on the whole nation
+peoplepolicy	4	Other people's opinions should not have an effect on what you are allowed to do
+peoplepolicy	5	The population generally knows what they want, but cannot be expected to have the time to research and vote on each issue and should delegate it it to representatives
+healthcare		Healthcare
+healthcare	0	I support private insurance and healthcare providers, but ensuring that prices are competitive relative to the cost to produce them and prosecuting any cases of price fixing
+healthcare	1	I do not want to ban private healthcare or insurance, but I want a public option that will provide a fair rate, that will put private companies that are taking advantage of customers out of business
+healthcare	2	Both Healthcare and treatment should be directly provided and guaranteed to all citizens by the nation
+healthcare	3	I believe in having not just one, but many government-owned healthcare options. The cost for all of them will be paid for, but you can choose the one that you think has the best service, to create competition between them
+healthcare	4	Healthcare should be left to the free market. If healthcare providers or insurers aren't providing affordable service, they will not have customers and go out of business
+healthcare	5	Healthcare service should be private, but I will ensure that the government provides a single-payer system to ensure nobody needs to worry about being able to afford the healthcare they need
+healthcare	6	Allowing healthcare providers to set their own prices freely allows them to fund additional research and benefits us all by providing new, better treatments
+minwage		Minimum Wage
+minwage	0	All companies should be required to split their profits fairly throughout their employees. Anyone in charge of the company should not be allowed to be paid significantly more than those at the bottom of the company
+minwage	1	There should be a national program that guarantees a job with a wage that people can live comfortably on, working on things such as better infrastructure. Companies that pay less than that will have trouble finding workers to fill their openings
+minwage	2	The majority of working people should be paid the value of their labor (with a minimum, a comfortable living wage). There should also be a maximum wage, and managers and executives should be paid a lot less.
+minwage	3	People should be guaranteed a living wage from their jobs. They should be able to work a single job with reasonable hours and be guaranteed enough to afford everything they need
+minwage	4	There should be no minimum wage. The markets will figure out how much labor is worth and allow us to keep prices competitive with those produced with labor abroad
+minwage	5	There should be a moderate living wage that won't put small businesses out of business, as well as a tax on large companies with many workers below the poverty line to pay for any welfare their employees receive and ensure small businesses are competitive
+minwage	6	Workers should have a minimum wage to prevent a race to the bottom, but executives develop ideas for their business and take risks in founding it and thus deserve a large portion of their company's profits
+minwage	7	People should produce as they can and consume what they need. The concept of money should not exist
+isp		Internet Service Providers
+isp	0	We should regulate internet service providers to ensure that they provide nationwide coverage and that there are multiple options everywhere to allow competition, and prosecute them if the companies form deals that allow them to create regional monopolies
+isp	1	It is expensive for ISPs to connect areas to the internet. They will do their best to ensure coverage at an affordable price, and should only be penalized if they fail to deliver the quality and reliability of internet that they advertised
+isp	2	Through taxes, the government should subsidize multiple internet service providers expanding to all areas of the nation in exchange for price guarantees to ensure that everyone has multiple affordable options for internet
+isp	3	We should have a national internet service provider that guarantees affordable, reliable, high-speed internet through the entire country. Private companies will have to compete with that as a baseline
+isp	4	High Speed Internet Service Providers must be nationalized. They aren't able to have fair competition due to the cost of laying out cables, especially in rural areas
+isp	5	We must make it feasible for people to start government-backed internet service providers in their area. These will be owned by the government and provided to everyone, however, people may choose which ISP they want among the options in the area
+isp	6	Internet service providers should not be regulated and will find the fair price for internet, which may vary based on how expensive it is to connect an area, based on how much that is worth
+ubi		Universal Basic Income
+ubi	0	Guaranteeing income is a dangerous idea that disincentivizes working. This would hurt the economy, and I cannot support it
+ubi	1	I support a universal basic income paid for by large companies outsourcing or automating jobs almost as much as the difference in cost to allow small businesses to remain competitive
+ubi	2	The poor should be guaranteed essentials through government-run public options with discounted rates for the elderly and those in poverty rather than a universal basic income
+ubi	3	I support a universal wage a bit lower than the average wage more than a basic income. Those who cannot work due to medical conditions, temporary unemployment, or in retirement should receive it, and the employed should be guaranteed at least that much.
+ubi	4	I am opposed to a universal basic income. Working people should be guaranteed a living wage, and benefits for the unemployed and unable to work should be more than a UBI would be worth. The rich do not need that extra bit of income
+ubi	5	I support a universal basic income consisting of the profits from government-run companies to distribute their successes and ensure minimal risk for the less successful government-run companies
+ubi	6	I support a universal basic income. The poor should not have to prove their status of being poor and have the government manage how they spend their welfare for them
+ubi	7	Rather than starting taxation at 0%, there should be a threshold, and those below the threshold are paid, and those who make more than the threshold are taxed, and you should always receive more by working to ensure there is always an incentive to work.
+ubi	8	People should be guaranteed their needs. As such, income such as Universal Basic Income should not exist
+utilities		Utilities
+utilities	0	Utilities will find a fair competitive price. They should not be regulated, even if only one company services an area, they have to compete because people will take them into account when choosing an area to live in
+utilities	1	Utilities should be owned by local governments or communities. They will be responsive to the small group they serve, and can be replaced by the community if they are not meeting the needs of the community
+utilities	2	Utilities such as electricity and water should be nationalized. They are public goods that everyone needs. Public control allows the best quality since in many places, there is only one option
+utilities	3	The government should subsidize utility companies expanding to all areas of the nation. In exchange for this assistance, companies must guarantee a fair price and other guarantees such as a certain percentage of renewable electricity each year
+utilities	4	It is expensive for companies to set up utility infrastructure, and they should be expected to set a fair profitable price to make up their investments in a reasonable time
+utilities	5	We should have national utilities companies, but not ban private companies. If they can find a market, they can compete with the nationalized options
+utilities	6	Utilities should be regulated to ensure that systems are compatible so that multiple companies can connect to the same building. We must prosecute monopolies that do not give a choice
+privateschools		Private Schools
+privateschools	0	Schools should be private, but the government should provide vouchers to the poor to ensure that every child is able to afford attending school
+privateschools	1	All schools should be public schools, however, parents and students should be able to choose which public school they attend rather than having it chosen automatically based on location
+privateschools	2	The state should own all schools. This makes it easier to ensure all our students have an equal opportunity to succeed
+privateschools	3	There should be a mixture of public and private schools, however, public schools should receive a lot of funding to ensure our children are well educated and ensure they are competitive with private schools
+privateschools	4	There should not be public schools. The state should have no obligation to provide education to those who cannot afford it
+outsourcing		Outsourcing
+outsourcing	0	The Government should nationalize all manufacturing in the nation, and should not outsource jobs
+outsourcing	1	We should have national manufacturing subsidized by taxes to keep prices competitive with outsourced jobs. Buyers can decide for themselves which are better
+outsourcing	2	We should remove the minimum wage here. Then costs of producing here will be lower than producing abroad and shipping here
+outsourcing	3	We should regulate companies to only provide subsidies and government purchases to businesses that perform key manufacturing within the nation, not abroad
+outsourcing	4	Outsourcing manual labor allows our citizens to have cheap goods and not have to do routine manual labor, allowing jobs here to be complex work
+outsourcing	5	The government should own most industry, but should allow competition between them so there is not just one choice. Since they are government-owned, we can ensure it is all domestically produced
+outsourcing	6	We should impose heavy fees on goods produced in countries with worse labor rights than us to ensure companies can produce everything here and have fair competition
+bankcrash		Bank Crashing that Will Damage the Economy
+bankcrash	0	We should create a single national government-owned bank, and buy all the current banks including the one that is failing. This ensures everyone can pay the same rates and that we can take on the debt the failing one owes
+bankcrash	1	The issue is that we have private megabanks. We should instead have local-government-owned community banks that work in the interests of the communities they represent and fund businesses in the area
+bankcrash	2	We must not interfere with the free markets. It will fail, and eventually the economy will rebuild itself
+bankcrash	3	We should break up big banks before they get to a situation where a crash like this can be caused by one company
+bankcrash	4	We should bail out the bank to save the economy but eventually have the bank pay back the money with interest
+bankcrash	5	We should purchase this bank and run it as a national bank. Other banks can compete with us, but we can guarantee we won't go bankrupt
+bankcrash	6	Banks should not exist in any form
+highways		Highways
+highways	0	Local governments should build and maintain highways. This ensures they are responsive to the wishes of local communities and their wishes
+highways	1	Roads should be privatized. Private highways ensure that only those who use them pay for them and will create better quality
+highways	2	We should have many highways be public, but allow private highways to be built to compete. If their quality or placement allows them to be profitable because people choose them, that's a positive for everyone
+highways	3	Highways should be operated by the national government. This ensures we can guarantee road quality nationwide that is free for everyone, and should employ a lot of people to work on ensuring top quality
+debt		National Debt
+debt	0	We should take on debt both to improve the economy and to invest in our population in ways that will pay back more in the long run. We should pay for this debt through higher taxes on bigger companies
+debt	1	The government controls the currency. We can print more money when we need more money, and legislate prices to stay level to keep inflation from becoming a problem
+debt	2	We should be mindful of debt and pay it off when possible. When the economy takes a downturn, we should spend to help it survive, but we should cut government spending and pay back debt when it picks back up
+debt	3	Having national debt is not a bad thing, and we should not cut spending programs to pay it off, though we should have a plan before adding to it
+debt	4	The government should not have debt because it should not be spending. We should cut all spending programs and pay off the debt as quickly as possible
+debt	5	Currency should not exist, and as a result, debt should not exist
+consumergoods		Consumer Goods Production
+consumergoods	0	Government-owned industry should manufacture all consumer goods for the population
+consumergoods	1	Anyone should be able to start a government-backed company that can produce competing consumer goods
+consumergoods	2	The government should not be producing consumer goods, that is for the markets to produce
+consumergoods	3	The government should produce consumer goods to ensure an affordable price, however the free market should be able to compete with it
+consumergoods	4	The government should regulate consumer goods to ensure safety and compliance with standards, but not produce them
+consumergoods	5	The nation should guarantee consumer goods to meet everyone's needs, provided by those who are able to make them without any sort of currency
+genetic		Genetic Engineering
+genetic	0	Genetic engineering should not only be allowed, but required. We should modify infants to be perfect at exactly what we need and plan their lives so they can integrate perfectly with society without questioning their place
+genetic	1	The government should not stand in the way of genetic engineering. Those who wish to create better children using technology should be allowed to
+genetic	2	We should use genetic modification for good, such as eradicating diseases and correcting genetic defects, but should leave most traits to genetics
+genetic	3	Human genetics should not be something we alter. Unless there is certain death for the person in question without genetic modification, we should avoid it
+genetic	4	Genetic engineering poses a major threat of allowing the super-rich to have inhumanly perfect babies who can outperform the poor, furthering societal class gaps, which should be banned except in cases of life and death
+flagburn		Flag-Burning
+flagburn	0	The nation has major issues, and the only way to get them addressed is to draw attention. Flag burning is fairly harmless but gets attention, so it's a good protest method
+flagburn	1	It should be mandatory to support the nation, and as such, damaging a flag should be very illegal.
+flagburn	2	I support the right to protest and destroy flags, but flag-burning should be regulated for safety to ensure that it does not pose a danger to people or property, through the smoke or fire
+flagburn	3	A flag is a symbol of our nation. To destroy a flag is a hostile act against the nation and should be illegal
+flagburn	4	This should be a free country, and if you own a flag, you should be free to burn it if that's what you want to do
+freespeech		Free Speech
+freespeech	0	You should have the freedom to say anything. It's not illegal until you actually take an illegal action based on the speech
+freespeech	1	Speech should be free, but you should not be guaranteed protection from backlash, including being removed from platforms if your opinions are unwelcome there
+freespeech	2	You should not have freedom of speech. The state should decide what is acceptable to say
+freespeech	3	Speech should generally be free, if it is literal speech. Symbolic speech such as destroying a symbols of the government or religious texts are grossly offensive and should be banned, however
+freespeech	4	We should ban and penalize very offensive language such as slurs. These should be penalized through fines offline and deplatforming online
+drugs		Drugs
+drugs	0	Drugs are dangerous for our society and can tear apart families and relationships. Selling them for recreational use should be banned for our safety and we should have programs to educate people on the dangers they pose
+drugs	1	Bans on many drugs like marijuana were designed to disproportionately affect the poor and minorities. We should overturn most drug-related convictions and institute programs to help addicts get their lives back in order
+drugs	2	What you put in your own body is your own business. We should legalize drugs so that they don't go to the black market
+drugs	3	We should educate our children to the dangers of drugs and ban the most harmful ones, but ones like Marijuana should be legal for recreational use
+drugs	4	We can use drugs to ensure people are incapable of causing trouble. We can mandate them and only provide them to when people act in accordance with how the state requires
+baker		Religious Baker Refuses to Make Gay Marriage Cake
+baker	0	Unless they were asking him to draw a graphic image depicting homosexuality, he should not have a problem with it. If it's just writing their names and something like a pride flag, it's discrimination to refuse the request
+baker	1	This is unacceptable discrimination and homophobia. This man should not be in business
+baker	2	The couple should be arrested. They should be pairing with someone who they can produce babies with
+baker	3	The baker is being asked to make something against his religion. He should have no obligation to create something celebrating that
+baker	4	People should never be mandated to do anything. He should be able to deny his services to anyone for any reason, they can get one elsewhere
+abortion		Abortion
+abortion	0	The right to life is a fundamental right, and abortion should be banned in nearly all cases
+abortion	1	Bans on abortions primarily hurt the poor and often leaves single mothers stuck in poverty with a baby. Abortion should be legal for everyone
+abortion	2	You should have full control over your body, including the right to have an abortion
+abortion	3	Abortion should be legal but rare. People should be educated of alternate methods of contraception and there should be restrictions on late-term abortions without a reason
+abortion	4	If the state approves you to have a baby, you should have it unless the mother's life is in danger. People who are not approved to have babies should have abortions mandated, however, and face strict penalties
+climate		Climate Change
+climate	0	We must act to prevent climate change, and everyone must do their part. We should provide incentives for individuals to go green, and regulate companies to meet environmental standards
+climate	1	Corporations and the rich are the biggest contributors to climate change. We should direct most of our regulations at them to ensure that people are not wasting energy powering a giant mansion they don't need
+climate	2	Global warming that doesn't actually exist. It’s crazy to ask everyone to overhaul things like their buildings and cars to combat it.
+climate	3	People should not be mandated to do anything to fight climate change. People may voluntarily reduce emissions it if they wish
+climate	4	The population should be expected to minimize their own waste to ensure that as many resources as possible remain for the state to use to support their interests
+reproductive		Reproductive Incentives
+reproductive	0	We need to keep our population in check, but incentives will not stop the rich, so we should have a hard limit on the number of children a person may have
+reproductive	1	People should have as many children as they want. That is not the business of the state
+reproductive	2	We should encourage our native citizens to have more children by offering tax incentives to ensure they can support our economy as our population ages and ensure our culture is passed down
+reproductive	3	The Earth has a limit to the population it can support, and while we should not have strict controls, we should incentivize people to limit the number of children they have
+reproductive	4	Those with genes that the state wants should have children and have children often, and those with poor genes should not be allowed to have children at all
+reproductive	5	Population-limiting incentives would only hurt the poor, as the rich will not care about the incentives. We should offer financial support to the poor to ensure our youth are able to have their needs met growing up, but not enough to be considered an incentive
+ai		Artificial Intelligence
+ai	0	Artificial intelligence risks displacing living working people from their lifestyles and livelihoods. We should be hesitant to replace jobs with AI
+ai	1	People and companies should be allowed to use AI freely
+ai	2	We should fully embrace AI. Soon it will, and should be able to make decisions far more objectively and effectively than humans can.
+ai	3	Artificial Intelligence largely takes jobs from low-income workers and can hurt their livelihoods. It also can hide discrimination through training AI on biased data. We should limit its use
+ai	4	We should embrace AI but must be sure to make sure there are adequate alternatives for workers it will displace and that any damage it can do is limited and it will protect privacy
+prostitution		Prostitution
+prostitution	0	People should be free to do what they want with their bodies. If they want to sell themselves for sex, that's their own choice
+prostitution	1	Sex should be reserved for marriage, or at least a long-term relationship. Prostitution and other sex work is immoral
+prostitution	2	Unapproved sex should not be permitted, as it may result in children with less than ideal characteristics
+prostitution	3	We should have regulated prostitution and other sex work because the alternative is a black market for it which is much worse
+prostitution	4	Prostitution takes advantage of the poor by making them sell themselves off to rich people just to be able to pay the bills. It should be illegal to buy
+immigration		Immigration
+immigration	0	Immigrants caught breaking laws should be deported, but those who illegally enter the country should be overlooked and allowed to stay, as they work lower wages and in worse conditions than our citizens, and allow us to reduce the cost of living for our citizens
+immigration	1	We need to be able to screen immigrants coming into our country and ultimately decide who enters. Those who enter unlawfully must be found and deported
+immigration	2	We can accept immigrants, but they should be expected to learn our language and culture, and do their best to integrate with our people and way of life
+immigration	3	We should accept and encourage talented, educated immigrants to move here. We can provide them the best of our country, and they can better our country with their talents
+immigration	4	I support opening our borders to anyone who wants to immigrate. Freedom of movement is an essential human right
+immigration	5	We should close our borders and completely shut down immigration. Our nation is for our people alone
+immigration	6	We must ensure that there is a need for the immigrants we let in. Those who take low-paying jobs anyone can do are taking jobs from our own citizens. I would support immigrants with skills where we have a shortage, however
+immigration	7	We must make it easy and quick to legally immigrate into this country. Immigrants improve our nation, and we can provide many of them a much better quality of life
+parliament		Regional Union+Parliament (like the EU)
+parliament	0	This union contains many nations with many languages, identities, and cultures, and they are able to maintain those cultural identities. As such, I see no issue with our membership
+parliament	1	I support this regional union. We should use this common parliament to push forward legislation that benefits the people of all of our nations
+parliament	2	This union allows us to better protect our people through international product safety standards and can allow us easier international trade deals, bring up our quality of life
+parliament	3	I oppose being a part of any such union. I have no interest in what the laws of other nations are, but I am very much opposed to  giving them a say in our laws
+parliament	4	Our laws are for our own people to decide, not those abroad. I oppose being a part of this union
+parliament	5	Being a part of this regional union gives us a much greater say in international affairs, significant economic benefits, and allow us more diplomatic options. As such, I support being a part of it
+parliament	6	The freedom of our people is my first priority, and the regulations from this union could restrict the freedom in this country. I am opposed to being a part of it
+intcurrency		International Currency
+intcurrency	0	Our historical currency is a part of our national identity. We cannot give that up for a slight ease of transactions with foreigners
+intcurrency	1	Sharing a currency with neighboring nations increases our currency's stability and gives it more weight internationally, so I support it
+intcurrency	2	I support sharing a currency with our neighbors, as it will simplify life for everyone in the shared currency zone and make international commerce easier
+intcurrency	3	I am opposed to sharing a currency with other nations. We need to be able to make decisions about our currency internally, and foreigners should not have a say in that
+intcurrency	4	I support using a shared currency with neighboring nations. It allows our people and theirs to easily travel to each other and eases transactions across the shared currency zone
+intcurrency	5	Having the ability to print our own currency when we need to stimulate our economy is valuable to our nation, and is worth more than the benefits of a shared currency
+intcurrency	6	The government should not be regulating currency, people should be free to choose what they accept as pay, such as cryptocurrency, material goods, or the currency of another nation, if they believe that has value
+refugees		Refugees
+refugees	0	We should accept refugees only if they are able to offer something to our nation, whether it is specialist talents, or intel on the country they are fleeing
+refugees	1	It is our duty to help people in need. We should take in as many refugees as we are able to comfortably support
+refugees	2	If they can make it to our country, we should not deny them entry, they should have the right to be a part of our nation
+refugees	3	These people could pose a threat to our citizens. We should accept very few refugees only after extensive background checks, under strict conditions
+refugees	4	Refugees are not our problem. They should not be allowed to enter the nation
+refugees	5	We must have a system where refugees have background checks, but after they pass, we should let them in subject to conditions for integrating into our society
+minoritylang		Minority Group Making Language Official Where Spoken a lot
+minoritylang	0	People who do not speak our language should be deported. There is no reason for another language
+minoritylang	1	We should add it as an additional language in that locality, as it can make life significantly easier for these people
+minoritylang	2	It is important for our nation to have a single national official language. These people should be expected to learn and understand the national language
+minoritylang	3	This will cause undue burden to our industries in labeling everything for all languages for all localities. We should have one national language
+military		When Military Action should be used
+military	0	We should use our military as a deterrent to ensure we are not attacked, as every time we enter a war, we are putting our citizens lives on the line
+military	1	The state of other nations should not concern us, so any military we maintain should be for self-defense only
+military	2	We should use our military to ensure the wellbeing and freedom of people around the world, such as contributing to international peacekeeping missions and efforts to replace governments that fail to respect human rights
+military	3	We should use our military to assault and annex territory that should belong to us
+military	4	Our military should defend our interests abroad to ensure we remain an influential presence, such as by overthrowing hostile governments
+military	5	We should not have a military
+military	6	We should primarily use our military to ensure our nation maintains its status and independence, such as by defending allies and ensuring other nations do not try to take our land or water
+borderchecks		Agreement between Allies to Prevent Border Checks Between Them (Schengen)
+borderchecks	0	I oppose this, as we should not be having people from other nations in our nation at all
+borderchecks	1	It is important that we can examine who is coming into our nation, we cannot control who enters those nations, which is unacceptable
+borderchecks	2	This agreement is a win for everyone and can make it possible for closer alliances between our people
+borderchecks	3	I support this agreement. As long as these people respect our laws and values, this can make it easier for tourists to visit our nation and improve our national wealth
+borderchecks	4	I support this, not just with our allies, but with all nations. People should be free to enter any nation
+borderchecks	5	With this agreement, our people can easily vacation to our allies if they choose, with negligible additional risk, so I support this
+borderchecks	6	We should not allow people to leave the nation, and as such, I am opposed to this
+foreignaid		Foreign Aid
+foreignaid	0	We should expand our influence abroad and foreign aid is a good way to gain favors and popular opinion abroad
+foreignaid	1	Foreign aid can greatly improve the quality of lives of developing nations for relatively little cost to us, so we should provide it
+foreignaid	2	We should put foreign aid into nations with poor standards. Improving the life there reduces worldwide refugees and protects our nation from them
+foreignaid	3	We should not be spending our taxpayers' hard-earned money on other nations
+foreignaid	4	The affairs of other nations do not matter to us, there is no reason to send foreign aid
+foreignaid	5	Any government should be minimal, if it exists at all, and thus not have the funds to be paying money abroad
+unres		United Nations Resolutions (Main 6 Bodies)
+unres	0	We should not be a part of the UN
+unres	1	I support having the United Nations or a similar new organization to replace governments such as our own to unify the world into a single country
+unres	2	Our country should look out for our own people, not the people of the world, so we should not follow UN guidelines unless they happen to coincide with our own interests
+unres	3	We should follow UN resolutions and put international pressure on nations that don't to make the world a better place for everyone
+unres	4	Our nation's laws should not be decided by other nations, we can consider UN resolutions but should only pass them as laws in our nation if they match our interests
+unres	5	We should attempt to use the united nations to our advantage, and support proposals that benefit us and encourage others to follow them, however we should only follow the proposals that benefit us
+unres	6	We should not change our way of life because other nations say to.
+espionage		Most Important Espionage Agency Tasks
+espionage	0	We should use our foreign espionage agency to attempt to infiltrate our enemies abroad and overthrow leaders who oppose us when possible
+espionage	1	The most important task is uncovering and tracking down the worst sorts of criminals who reside in our nation
+espionage	2	We should use our espionage agencies primarily to identify terrorist threats that could pose a risk to our citizens
+espionage	3	The most important espionage task is for our domestic agency to track down people who entered the nation illegally so we can deport them
+espionage	4	The most important task is for our foreign espionage agency to uncover atrocities around the world and expose them
+espionage	5	We should not even have a foreign espionage agency. Our domestic agency should focused on uncovering and tracking down criminals and people who entered the nation illegally
+espionage	6	We should not have any espionage agency
+A		Select the view that best describes your opinion
+BL		Click the question mark if it is a slight preference
+BR		Click the check mark if this is definitely your preference
+all		All
+home		Main Page
+values		Possible Values
+whistle		Whistleblowers
+whistle	0	Whistleblowers should make reports through the proper channels for ethical concerns. If someone is found to have leaked classified information, they should be punished.
+whistle	1	There should be no classified information, and as such, there is no issue with whistleblowers.
+whistle	2	Whistleblowers who are revealing information that the people have a right to know, such as illegal activities the government did, should be protected and regarded as heroes.
+whistle	3	Anyone leaking secrets the state must be punished, the people the state trusts to handle its secrets should not have the authority to determine whether the state is right or wrong.
+police		Deaths Caused by Police
+police	0	When a police death occurs, there should be an investigation. The officer should be punished if they did not follow policy, but if they followed a bad policy, the policy should be changed, the officer should not be punished.
+police	1	There should not be a police force, people should determine justice using their own means.
+police	2	Police work dangerous, high-stress jobs and should generally have protection when they take an action when they perceive a threat that turns out to be wrong
+police	3	Most police should not be armed with lethal weapons, should be representative of the communities that they serve, and should be trained in deescalation, and should be charged when they kill a member of the communities that they were supposed to protect.
+police	4	Police should be legally allowed to kill when someone puts up any perceived resistance to the police.
+survey		Surveillance
+survey	0	People should have a reasonable expectation of privacy in their data, but the government should be allowed to gain access to the private communications of certain people, if they have reasonable cause to apply for a warrant.
+survey	1	Companies should be permitted to monitor your communications and ensure that you are following all their terms, but the government, if one even exists, should not be allowed to.
+survey	2	The government should be able to access the communications of anyone. This should be used to discourage people from  engaging in illegal activities online.
+survey	3	People should have a right to privacy in their communications. The government should not be able to get electronic data.
+survey	4	The government shouldn't be allowed to look at most communications, but software should automatically flag potentially illegal activities for review and potential reporting to authorities.
+guns		Gun Ownership
+guns	0	Those who can demonstrate a need to own a gun should be able to get one, however, those without a need should not be able to.
+guns	1	Gun ownership should be encouraged, if not required, to deter criminals who will have to put their life at risk when committing a crime.
+guns	2	Anyone should be able to own a gun and be able to use it when they feel threatened.
+guns	3	Many gun deaths are caused by lack of proper training. There should be restrictions on purchasing a guns including training requirements and background checks to ensure gun-owners are responsible.
+guns	4	Civilians should not be permitted to own a gun, it endangers law enforcement officers and makes crime more difficult to stop.
+deathpenalty		Death Penalty
+deathpenalty	0	If people are found guilty beyond any shadow of a doubt for a particularly heinous crime, they should be given the death penalty.
+deathpenalty	1	There should be no prisons, as such, if someone has committed an act where it it unsafe to allow them to go freely, they should be executed.
+deathpenalty	2	The death penalty should be an option, as it will reduce crime by serving as a deterrent.
+deathpenalty	3	We should always try to rehabilitate, and criminals should still have a right to live and change, so the death penalty should be banned.
+deathpenalty	4	Those who defy the state should be executed, to ensure that those who remain obey.
+deathpenalty	5	The death penalty is an easy escape for especially heinous criminals and should be banned
+proced	desc	According to this quiz, someone who believes in Procedural security believes that people should follow the procedures and regulations that are set out. Those that are following the procedures, even when the procedures are wrong, should not be punished, and the procedures should be changed.
+decn	desc	Those who believe in Decentralized Security believe that the government should not be guaranteeing security, and instead believes that people should take their own security in their own hands. They usually believe strongly in guns and oppose prisons and police.
+lao	desc	People who believe in Law and Order believe that the best way to prevent crime is to impose strict penalties and risks to deter criminals. They usually believe in penalizing those who break the law to the full extent of the law and support punishment over rehabilitation
+hum	desc	A Humanist, according to this quiz, believes that most people are fundamentally good, and that people should be trusted until they have shown that they do not deserve that trust. They believe in rehabilitation and the right to bear arms as a default right. 
+hum*	desc	This quiz calls a Reformist someone who believes that the government must keep its people safe while respecting their privacy. Reformists believe that people should need training to operate a gun, but also support privacy rights and rehabilitation.
+prot	desc	A believer in State Security, according to this quiz, believes that privacy is unimportant in comparison to a guarantee of security and usually supports constant surveillance and removing any threat of uprising. They believe the population should follow the law through any means necessary.
+prot*	desc	A believer in Total Security, according to this quiz, believes that the state should suppress dissent. They believe the population should follow the law through any means necessary and that nobody should expect privacy so should follow the law.

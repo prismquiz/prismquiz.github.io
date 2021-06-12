@@ -1,0 +1,52 @@
+key	category	weight	0	1	2	3	4	5	6	7	8	9	10	nota	idc
+genetic	soct		perf	free	prog	trad	just								
+flagburn	soct		just	perf	prog	trad	free								
+freespeech	soct		free	prog	perf	trad	just								
+drugs	soct		trad	just	free	prog	perf								
+baker	soct		prog	just	perf/trad	trad	free								
+abortion	soct	1	trad	just	free	prog	perf								
+climate	soct		prog	just	trad	free	perf								
+reproductive	soct		just	free	trad	prog	perf	just							
+ai	soct		trad	free	perf	just	prog								
+prostitution	soct		free	trad	perf	prog	just								
+immigration	for		pop	sov	asim	nat	open	iso	pop	glob					
+parliament	for		asim	glob	pop	iso	sov	nat	open/pop						
+intcurrency	for		asim	nat	glob	sov/iso	pop/open	nat	open						
+refugees	for		nat	glob	open	pop	iso	asim/sov							
+minoritylang	for		iso	glob/pop	sov/asim	nat/sov								open	
+military	for		pop	iso	glob	nat*	nat	open	sov/asim						
+borderchecks	for		iso	sov	glob	asim/nat	open	pop	nat						
+foreignaid	for		nat/sov	glob	nat/asim	asim/pop/sov	iso	open*							
+unres	for		iso/open	glob*	pop	glob	sov	nat	asim						
+espionage	for		nat	sov/asim	pop	sov	glob	iso	open						
+praysch	rel		theo	hybr	athe	sec									
+creationism	rel		theo	sec	athe	hybr									
+churchtax	rel		theo	athe/sec	hybr	athe*									
+memorial	rel		theo	athe	sec	hybr									hybr
+holidays	rel		theo	sec/athe	hybr										
+elections	gov		techno	repub	dir/rep	anar	auth/techno	plut	strato						
+representation	gov		anar	plut	rep/repub	auth	techno	dir	strato						
+concentration	gov		dir	techno	repub	plut	anar	strato	auth	rep					
+districts	gov		rep	strato	repub	dir	auth	anar	techno	plut					
+trait	gov		anar/dir	auth	plut	techno	techno/strato	rep/repub							
+electionreform	gov		plut	dir*	repub/strato	rep/dir	auth/techno/strato/anar							strato	
+secession	gov		auth/rep/techno/strato	repub	anar/plut	dir/repub*	auth/rep/strato/techno								
+leaderselect	gov		auth/techno	repub	auth*	strato	rep	plut	anar/dir/techno						
+policysetting	gov		repub	auth	rep	techno	dir	plut	strato	anar	repub/rep*				
+peoplepolicy	gov		dir	plut	auth/techno/strato	repub	anar	rep							
+healthcare	econ		ordo	opt	soc/com	marksoc	cap	socdem	clas						
+minwage	econ		marksoc	opt	soc	socdem	cap	ordo	clas	com					
+isp	econ		ordo	clas	socdem	opt	soc	marksoc/com	cap						
+ubi	econ		clas/cap	ordo	opt	soc	socdem	marksoc	socdem	socdem	com				
+utilities	econ		cap	marksoc/com	soc	socdem	clas	opt	ordo						
+privateschools	econ		clas/ordo	marksoc/com	soc	opt/socdem	cap								
+outsourcing	econ		soc/com	opt	cap	socdem	clas	marksoc	ordo/socdem						
+bankcrash	econ		soc	soc/marksoc	cap	socdem/ordo	clas	opt	soc/com						
+highways	econ		clas/marksoc/ordo/com	cap	opt	socdem/soc									
+debt	econ		ordo/clas/opt	soc/marksoc	clas	socdem	cap	com							
+consumergoods	econ	1	soc	marksoc	cap/clas	opt	ordo/socdem/clas	com							
+whistle	legal		proced/lao	decn	hum	prot									
+police	legal		proced	decn	lao	hum	prot								
+survey	legal		proced	decn	prot	hum	lao								
+guns	legal		proced	lao	decn/hum	hum*	prot								
+deathpenalty	legal	1	proced	decn	lao/prot	hum	prot*	lao							

@@ -1,0 +1,59 @@
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="data/prism.png"/>
+    <title>Prism Political Quiz</title>
+    <style>
+        body {
+            font-family: Arial;
+            color: lightgrey
+        }
+        a[href] {
+            color: #1e8ad6;
+        }
+        a[href]:hover {
+            color: #3ba0e6;
+        }
+    </style>
+    <body style="background-color:#2b2d30">
+    </body>
+    <script src="d3.min.js"></script>
+    <script src="render.js"></script>
+    <script>
+    d3.tsv("translations/translations.tsv").then(LANGUAGEDATA=> {
+        curlang = window.location.href.split("lang=")[1].split("&")[0]
+        LANGUAGES = {}
+        for(var i = 0; i < LANGUAGEDATA.length; i++)
+            LANGUAGES[LANGUAGEDATA[i].key+LANGUAGEDATA[i].nonce] = LANGUAGEDATA[i];
+        center = d3.select('body').append('center')
+        center.append("a").attr("href",("/"+curlang+".html").replace("en.html","")).append("h2").text("Back")
+        dimensions = ["gov,repub,auth,rep,techno,dir,plut,strato,anar,rep*,dir*,repub*,auth*","econ,ordo,opt,soc,marksoc,cap,socdem,clas,com","soct,perf,free,prog,trad,just","rel,theo,hybr,athe,sec,athe*","legal,proced,decn,lao,hum,hum*,prot,prot*","for,sov,asim,nat,open,iso,pop,glob,glob*,open*,nat*"].map(d=>d.split(","))
+        for(var i = 0; i < dimensions.length; i++) {
+            center.append("h1").text(LANGUAGES[dimensions[i][0]][curlang]).style('font-size',50)
+            table = center.append("table").attr("width","80%")
+            cg = table.append('colgroup')
+            cg.append("col").style("width","20%")
+            cg.append("col").style("width","80%")
+            d = dimensions[i].slice(1)
+            d.sort((a,b) => (LANGUAGES[a][curlang] > LANGUAGES[b][curlang]) ? 1 : -1)
+            for(var j = 0; j < d.length; j++)
+            {
+                
+                tr = table.append('tr')
+                tr.append('td').text(LANGUAGES[d[j]][curlang]).style('font-size',30).style('color',COLORS[ID2C[d[j]]]).style('font-weight', 'bold')
+                /*colors = "red,orange,yellow,green,blue,purple".split(",");
+                if(d[j] == "just")
+                {
+                    td = tr.append('td').style('padding',"20px").append("p");
+                    for(k = 0; k < LANGUAGES[d[j]+"desc"][curlang].length; k++)
+                        td.append("span").text(LANGUAGES[d[j]+"desc"][curlang][k]).style('font-size',18).style('color',COLORS[colors[k%colors.length]]).style('font-weight', 'bold')
+                }
+                else*/
+                tr.append('td').text(LANGUAGES[d[j]+"desc"][curlang]).style('font-size',18).style('padding',"20px").style('color',COLORS[ID2C[d[j]]]).style('font-weight', 'bold')
+            }
+            center.append('hr')
+        }
+        
+    });
+    </script>
+</head>
