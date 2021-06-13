@@ -149,7 +149,7 @@ concentration	2	We should distribute power by region in the nation, with represe
 concentration	3	Power should be concentrated according to wealth. Citizens who are wealthier have a bigger stake in the nation and in most cases understand both a specialization, how people think, and what they want, which allowed them to become wealthy
 concentration	4	Nobody should have the power to make laws, people should have the freedom to decide for themselves what is wrong and what is justified
 concentration	5	Only those who have served in the military and potentially risked their life for the nation can be fully trusted with the nation's interests, and only those who served it should thus be given a voice in power
-concentration	6	We need a single leader above all who can serve for life. With that rule, fully understand the big picture. Without public pressure, the leader can make the best decisions for the nation as a whole
+concentration	6	We need a single leader above all who can serve for life and be able to fully understand the big picture. Without worrying about what the public thinks, the leader can make the best decisions for the nation as a whole
 concentration	7	Power should be distributed to everyone through a large legislative body with enough people to represent the views of each person. Politicians are important to be able to spend their full time understanding issues, listening to experts and evaluating the big picture
 districts		Districts
 districts	0	We should have people represented in our legislature proportionally with their vote on a nationwide level. If 10% of the population nationally supports a party, 10% of the legislature should be that party
@@ -327,7 +327,7 @@ abortion	4	If the state approves you to have a baby, you should have it unless t
 climate		Climate Change
 climate	0	We must act to prevent climate change, and everyone must do their part. We should provide incentives for individuals to go green, and regulate companies to meet environmental standards
 climate	1	Corporations and the rich are the biggest contributors to climate change. We should direct most of our regulations at them to ensure that people are not wasting energy powering a giant mansion they don't need
-climate	2	Global warming that doesn't actually exist. It’s crazy to ask everyone to overhaul things like their buildings and cars to combat it.
+climate	2	Global warming doesn't actually exist. It’s crazy to ask everyone to overhaul things like their buildings and cars to combat it.
 climate	3	People should not be mandated to do anything to fight climate change. People may voluntarily reduce emissions it if they wish
 climate	4	The population should be expected to minimize their own waste to ensure that as many resources as possible remain for the state to use to support their interests
 reproductive		Reproductive Incentives
