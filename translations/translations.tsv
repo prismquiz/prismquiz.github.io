@@ -435,7 +435,7 @@ whistle		Whistleblowers
 whistle	0	Whistleblowers should make reports through the proper channels for ethical concerns. If someone is found to have leaked classified information, they should be punished.
 whistle	1	There should be no classified information, and as such, there is no issue with whistleblowers.
 whistle	2	Whistleblowers who are revealing information that the people have a right to know, such as illegal activities the government did, should be protected and regarded as heroes.
-whistle	3	Anyone leaking secrets the state must be punished, the people the state trusts to handle its secrets should not have the authority to determine whether the state is right or wrong.
+whistle	3	Anyone leaking state secrets must be punished, the people the state trusts to handle its secrets should not have the authority to determine whether the state is right or wrong.
 police		Deaths Caused by Police
 police	0	When a police death occurs, there should be an investigation. The officer should be punished if they did not follow policy, but if they followed a bad policy, the policy should be changed, the officer should not be punished.
 police	1	There should not be a police force, people should determine justice using their own means.
