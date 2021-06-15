@@ -304,7 +304,7 @@ freespeech		Free Speech
 freespeech	0	You should have the freedom to say anything. It's not illegal until you actually take an illegal action based on the speech
 freespeech	1	Speech should be free, but you should not be guaranteed protection from backlash, including being removed from platforms if your opinions are unwelcome there
 freespeech	2	You should not have freedom of speech. The state should decide what is acceptable to say
-freespeech	3	Speech should generally be free, if it is literal speech. Symbolic speech such as destroying a symbols of the government or religious texts are grossly offensive and should be banned, however
+freespeech	3	Speech should generally be free, if it is literal speech. However, symbolic speech such as destroying a symbols of the government or religious texts are grossly offensive and should be banned
 freespeech	4	We should ban and penalize very offensive language such as slurs. These should be penalized through fines offline and deplatforming online
 drugs		Drugs
 drugs	0	Drugs are dangerous for our society and can tear apart families and relationships. Selling them for recreational use should be banned for our safety and we should have programs to educate people on the dangers they pose
@@ -356,7 +356,7 @@ immigration	2	We can accept immigrants, but they should be expected to learn our
 immigration	3	We should accept and encourage talented, educated immigrants to move here. We can provide them the best of our country, and they can better our country with their talents
 immigration	4	I support opening our borders to anyone who wants to immigrate. Freedom of movement is an essential human right
 immigration	5	We should close our borders and completely shut down immigration. Our nation is for our people alone
-immigration	6	We must ensure that there is a need for the immigrants we let in. Those who take low-paying jobs anyone can do are taking jobs from our own citizens. I would support immigrants with skills where we have a shortage, however
+immigration	6	We must ensure that there is a need for the immigrants we let in. Those who take low-paying jobs anyone can do are taking jobs from our own citizens. However, I would support immigrants with skills where we have a shortage
 immigration	7	We must make it easy and quick to legally immigrate into this country. Immigrants improve our nation, and we can provide many of them a much better quality of life
 parliament		Regional Union+Parliament (like the EU)
 parliament	0	This union contains many nations with many languages, identities, and cultures, and they are able to maintain those cultural identities. As such, I see no issue with our membership
